@@ -1,4 +1,4 @@
 application base
 ================
 
-Application build base recipes.
+Base application build procedures.
