@@ -1,4 +1,4 @@
-base application
-================
+base apps
+=========
 
-Base application build procedures.
+Base apps build procedures.
