@@ -8,7 +8,7 @@ adev env:
     # cat /usr/local/etc/adev.d/a-nginx
     : ${V:=x.y.z}
 
-    PROCS=( nginx )
+    PROCS=(nginx)
 
     VER_MODSECURITY=x.y.z
     VER_MODSECURITY_NGINX=x.y.z
