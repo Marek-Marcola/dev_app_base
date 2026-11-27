@@ -10,5 +10,5 @@ adev env:
 
     [[ "$V" == "3.4" ]] && V=3.4.z
 
-    PROC=( haproxy )
+    PROCS=(haproxy)
     INFO="HAProxy (3.4)"
