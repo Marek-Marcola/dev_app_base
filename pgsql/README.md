@@ -19,5 +19,5 @@ adev env:
     [[ "$V" == "11" ]] && V=11.y
     [[ "$V" == "10" ]] && V=10.y
 
-    PROC=( pgsql )
+    PROC=(pgsql)
     INFO="PostgreSQL (19 18 17 16 15 14 13 12 11 10)"
