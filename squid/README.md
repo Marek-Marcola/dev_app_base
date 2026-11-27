@@ -12,7 +12,7 @@ adev env:
     [[ "$V" == "6" ]] && V=6.y
     [[ "$V" == "5" ]] && V=5.y
 
-    PROC=( squid )
+    PROC=(squid)
     INFO="Squid (7 6 5)"
 
     VER_LANG=yyyymmdd
